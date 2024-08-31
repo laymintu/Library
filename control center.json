@@ -1,9 +1,12 @@
 [
   {  
+     "mainName": "Your digital Library ",
     "Categories": "စုဆောင်းခြင်းများ ",
     "newBook": "အသစ်ထွက်စာအုပ်များ",
     "Trending": "ခေတ်ဆင်းစာအုပ်များ",
     "mayLike": "သင်ကြိုက်နိင်သောစာအုပ်များ",
     "englishBook": "ဘာသာပြန်စာအုပ်များ"
+
+    
   }
 ]
