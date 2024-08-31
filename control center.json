@@ -1,11 +1,11 @@
 [
   {  
-     "mainName": "Your Library ",
-    "Categories": "Categories",
-    "newBook": "New added Books",
-    "Trending": "Trending Books",
-    "mayLike": "Books you mayLike",
-    "englishBook": "English Books"
+     "mainName":" Your Digital Library ",
+    "Categories":" Categories",
+    "newBook":" New added Books",
+    "Trending":" Trending Books",
+    "mayLike":" Books you mayLike",
+    "englishBook":" English Books"
 
     
   }
