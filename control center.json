@@ -1,5 +1,7 @@
 [
   {  
+
+    
      "mainName":" Digita Library",
     "Categories":" Categories",
     "newBook":" New added Books",
@@ -9,11 +11,11 @@
     "englishBook":" English Books",
 
 
-    "maintenance":"Yes",
+    "maintenance":"no",
     "Categories-hide":"No",
     "newBook-hide":"No",
     "Trending-hide":"No",
-    "Collections-hide":"No",
+    "Collections-hide":"Yes",
     "mayLike-hide":"No",
     "englishBook-hide":"No"
     
