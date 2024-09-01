@@ -1,6 +1,6 @@
 [
   {  
-     "mainName":" Digital Library",
+     "mainName":" Digitali Library",
     "Categories":" Categories",
     "newBook":" New added Books",
     "Trending":" Trending Books",
@@ -9,7 +9,7 @@
 
 
     
-    "Categories-hide":"Yes"
+    "Categories-hide":"no"
 
 
 
