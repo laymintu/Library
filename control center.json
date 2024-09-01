@@ -12,7 +12,7 @@
 
 
     "maintenance":"No",
-    "Categories-hide":"Yes",
+    "Categories-hide":"no",
     "newBook-hide":"No",
     "Trending-hide":"No",
     "Collections-hide":"no",
