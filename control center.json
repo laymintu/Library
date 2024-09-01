@@ -4,12 +4,20 @@
     "Categories":" Categories",
     "newBook":" New added Books",
     "Trending":" Trending Books",
+    "Collections":" Best Collections",
     "mayLike":" Books you mayLike",
     "englishBook":" English Books",
 
 
+    "maintenance":"No",
+    "Categories-hide":"No",
+    "newBook-hide":"No",
+    "Trending-hide":"No",
+    "Collections-hide":"No",
+    "mayLike-hide":"No",
+    "englishBook-hide":"No"
     
-    "Categories-hide":"Yes"
+    
 
 
 
